@@ -1,10 +1,11 @@
 body{
-    border: 2px solid red;
+    /* border: 2px solid red; */
     overflow-x: hidden !important;
     width: 100%;
 }
 *{
-    
+    overflow-x: hidden !important;
+    border: 2px solid red;
     padding: 0;
     margin: 0;
 }
@@ -14,5 +15,22 @@ body{
         font-size: 1.25rem;
         font-weight: 300;
     }
-    
-    
+    .link{
+        background-color:#75BF7A;
+    }
+    .apply{
+
+         width: 260px; 
+height: 55px;
+    }
+    .works h1{
+        font-family: Gilroy;
+font-size: 46.39px;
+font-weight: 800;
+line-height: 50.35px;
+text-align: left;
+
+    }
+    .tere{
+        color:#75BF7A;
+    }
