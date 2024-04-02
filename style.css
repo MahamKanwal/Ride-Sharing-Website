@@ -4,7 +4,7 @@ body{
     width: 100%;
 }
 *{
-    overflow-x: hidden !important;
+    /* overflow-x: hidden !important; */
     border: 2px solid red;
     padding: 0;
     margin: 0;
@@ -24,8 +24,7 @@ body{
 height: 55px;
     }
     .works h1{
-        font-family: Gilroy;
-font-size: 46.39px;
+
 font-weight: 800;
 line-height: 50.35px;
 text-align: left;
@@ -33,4 +32,34 @@ text-align: left;
     }
     .tere{
         color:#75BF7A;
+    }
+    .works p{
+        color:#9E9DA2; 
+        font-size: 23px;
+         font-weight: 500;
+         line-height: 26px;
+         /* width: 620px;
+height: 96px;
+padding-left: 50px; */
+    }
+    .top{
+            width: 60.82px;
+            height: 60.82px;
+        
+    }
+    .card-body h3{
+        /* font-family: Gilroy; */
+font-size: 22px;
+font-weight: 800;
+line-height: 50.35px;
+text-align: right;
+
+    }
+    .card-body p{
+        /* font-family: Gilroy; */
+font-size: 20px;
+font-weight: 500;
+line-height: 26px;
+text-align: right;
+color: #9E9DA2;
     }
