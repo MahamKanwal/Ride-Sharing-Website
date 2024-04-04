@@ -63,9 +63,9 @@ line-height: 26px;
 text-align: right;
 color: #9E9DA2;
     }
-    .works, .cards,.benefits{
-        background-color: #F9F9F9;
-    }
+    /* .works, .cards,.benefits{
+        background-color: #F9F9F9; */
+    /* } */
     .benefits h1{
         /* font-family: Gilroy; */
 font-size: 46.39px;
