@@ -1,11 +1,10 @@
 body{
-    /* border: 2px solid red; */
+  
     overflow-x: hidden !important;
     width: 100%;
 }
 *{
-    /* overflow-x: hidden !important; */
-    /* border: 2px solid red; */
+   /* border: 2px solid red; */
     padding: 0;
     margin: 0;
 }
@@ -38,9 +37,7 @@ text-align: left;
         font-size: 23px;
          font-weight: 500;
          line-height: 26px;
-         /* width: 620px;
-height: 96px;
-padding-left: 50px; */
+        
     }
     .top{
             width: 60.82px;
@@ -48,7 +45,7 @@ padding-left: 50px; */
         
     }
     .card-body h3{
-        /* font-family: Gilroy; */
+      
 font-size: 22px;
 font-weight: 800;
 line-height: 50.35px;
@@ -56,21 +53,32 @@ text-align: right;
 
     }
     .card-body p{
-        /* font-family: Gilroy; */
+      
 font-size: 20px;
 font-weight: 500;
 line-height: 26px;
 text-align: right;
 color: #9E9DA2;
     }
-    /* .works, .cards,.benefits{
-        background-color: #F9F9F9; */
-    /* } */
+   
     .benefits h1{
-        /* font-family: Gilroy; */
+        
 font-size: 46.39px;
 font-weight: 800;
 line-height: 50.35px;
 text-align: left;
 
+    }
+    .flexible p{
+       
+font-size: 22px;
+font-weight: 500;
+line-height: 23px;
+text-align: left;
+
+    }
+    .right {
+        color: #75BF7A;
+        text-align: center;
+        font-size: 16px;
     }
